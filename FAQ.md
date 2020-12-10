@@ -25,7 +25,7 @@
   * [Will Rust maintainers have a voice in the foundation?](#q-individuals)
   * [Will the foundation share insights into its finances?](#q-finances)
   * [Will the board members and officers be compensated?](#q-board-compensation) **✨ New answer! ✨**
-  * [Will there be rules in places to prevent financial abuse?](#q-financial-abuse) **✨ New answer! ✨**
+  * [Will there be rules in place to prevent financial abuse?](#q-financial-abuse) **✨ New answer! ✨**
   * [What prevents organizational capture of the foundation?](#q-organizational-capture) **✨ New answer! ✨**
   * [Will the foundation revisit the trademark policy?](#q-trademark-policy)
 * [Relationships of the foundation](#relationships-of-the-foundation)
@@ -198,7 +198,7 @@ One note: in a legal sense, the draft by-laws of the Foundation provide for both
 💁 A: We expect the Foundation to hire for a full-time paid leadership position, appointed by the board. The foundation will likely have other paid staff, that handle things like legal, accounting, and managing Rust’s infrastructure. We do not expect that board members will be compensated initially, but we did leave room for the board to authorize a stipend for volunteers that would not otherwise be able to make the time commitment.
 
 <a id="q-financial-abuse"></a>
-**🤔 Q: Will there be rules in places to prevent financial abuse?**
+**🤔 Q: Will there be rules in place to prevent financial abuse?**
 
 💁 A: When it comes to preventing financial abuse, long term operation of the foundation requires ‘defense in depth’. For general transparency we expect to be publishing regular reports with financial details. At the whole-board level (consisting of both project members and sponsor representatives), financial oversight is one of their responsibilities. Finally, an important piece of context is the concept of individual fiduciary duty: directors are always expected and legally bound to work in the best financial interests of the foundation.
 
